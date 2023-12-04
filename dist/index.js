@@ -6,4 +6,9 @@ if (button && input) {
         concatenation(input.value, "hello!");
     });
 }
+let Arr;
+Arr = [1, 2, 3];
+let users = [{ name: "Tom", age: 34 }];
+const numbers = [1, 2, 3, 4, 5, 6, 7];
+numbers.push(22);
 //# sourceMappingURL=index.js.map
